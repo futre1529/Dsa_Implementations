@@ -1,0 +1,11 @@
+#include<iostream>                      
+using namespace std;
+#include<conio.h>
+int main(){
+int a;
+a=12;
+	cout<<a;
+	if(a==12)
+{
+cout<<a;         }
+}
